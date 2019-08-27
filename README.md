@@ -1,9 +1,9 @@
 DSND Capstone Challenge
 
-Motivation
+Motivation:
 The Starbuck app is a great addition to Starbucks where it shows that the company cares about its costumers and most importantly, cares about keeping up with the technology. The data I have analysed is a simplified version that does mimic the mobile app data. The main goal in this project is to collect and analyse transaction, demographic and offer data to determine which demographic groups respond best to which offer type.
 
-Packages Used
+Packages Used:
 The following packages are required to execute the code in the jupyter notebook.
 -numpy
 -pandas
@@ -11,7 +11,7 @@ The following packages are required to execute the code in the jupyter notebook.
 -matplotlib
 -seaborn
 
-Questions to Answer
+Questions to Answer:
 1.	In terms of the customers’ gender, who is dominant?
 2.	If we look at it from a timeline point of view, how are customers increasing per gender
 3.	In terms of age, who is dominant?
@@ -22,5 +22,6 @@ Questions to Answer
 8.	Who should receive offers on their app and what kind of offers?
 
 
-Results
+Results: 
 Please refer to my blog:
+https://fha5025.wixsite.com/website/post/analyzing-the-consumers-of-starbucks-coffee
