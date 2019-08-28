@@ -21,6 +21,21 @@ Questions to Answer:
 7.	Can we build a model that can predict the behaviour of our costumers
 8.	Who should receive offers on their app and what kind of offers?
 
+Implementation:
+What I did for the data is the following:
+1. View the data and graph it to make sense out of it.
+2. Built a machine learning model that predicts how much someone will spend based on demographics and offer type using unsupervised machine learning. 
+Understand the importance of each variable in the model
+
+Apply principal component analysis (PCA) from  sklearn  to find the vectors of maximal variability
+
+Take the transformed data and apply clustering techniques to identify groups using  k-means method 
+
+3. Check which clusters have the highest spending and what are their characteristics
+
+refinement:
+To make sure I get the best results and I chose the best number of clusters that make sense to my dataset, I used the elbow method.
+
 
 Results: 
 Please refer to my blog:
